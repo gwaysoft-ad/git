@@ -11,10 +11,9 @@
       https://git-scm.com/book/en/v2
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1583396140476" ID="ID_1556745953" MODIFIED="1583719821088" TEXT="2. Git Basics">
-<node CREATED="1583387551001" FOLDED="true" ID="ID_1300733150" MODIFIED="1583560385058" TEXT="2.1 Getting a Git Repository">
+<node CREATED="1583387551001" ID="ID_1300733150" MODIFIED="1586337882219" TEXT="2.1 Getting a Git Repository">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -121,7 +120,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1583396250531" FOLDED="true" ID="ID_190817263" MODIFIED="1583583052319" TEXT="2.2 Recording Changs to the Repository">
+<node CREATED="1583396250531" ID="ID_190817263" MODIFIED="1586337864192" TEXT="2.2 Recording Changs to the Repository">
 <node CREATED="1583396304731" ID="ID_1896691822" MODIFIED="1583396311400" TEXT="overall">
 <node CREATED="1583396313339" ID="ID_512410896" MODIFIED="1583396341992" TEXT="2 states">
 <node CREATED="1583396342891" ID="ID_598591961" MODIFIED="1583396526073" TEXT="tracked">
@@ -354,7 +353,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1583400088889" FOLDED="true" ID="ID_126464628" MODIFIED="1583579062560" TEXT="view your staged and unstaged chenges">
+<node CREATED="1583400088889" ID="ID_126464628" MODIFIED="1586337879285" TEXT="view your staged and unstaged chenges">
 <node CREATED="1583400135905" ID="ID_438596614" MODIFIED="1583401421494" TEXT=" unmodified &lt;&gt; untracked || modified">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -386,7 +385,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1583402494097" FOLDED="true" ID="ID_1881271815" MODIFIED="1583579063704" TEXT="committing your changes">
+<node CREATED="1583402494097" ID="ID_1881271815" MODIFIED="1586337876451" TEXT="committing your changes">
 <node CREATED="1583409612363" ID="ID_1635942124" MODIFIED="1583409618187" TEXT="git commit"/>
 <node CREATED="1583410718366" ID="ID_1125064822" MODIFIED="1583411043266" TEXT="git commit -m &apos;comment&apos;"/>
 </node>
@@ -479,7 +478,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1583414053800" FOLDED="true" ID="ID_665686878" MODIFIED="1583583046936" TEXT="2.3 Viewing the Commit History">
+<node CREATED="1583414053800" ID="ID_665686878" MODIFIED="1586503777388" TEXT="2.3 Viewing the Commit History">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -559,7 +558,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1583560389715" FOLDED="true" ID="ID_1091008191" MODIFIED="1583583045835" TEXT="2.4 Undoing Things">
+<node CREATED="1583560389715" ID="ID_1091008191" MODIFIED="1586337844017" TEXT="2.4 Undoing Things">
 <node CREATED="1583561174695" ID="ID_1120337569" MODIFIED="1583561187148" TEXT="$ git commit --amend"/>
 <node CREATED="1583561957088" ID="ID_1507044767" MODIFIED="1583561977207" TEXT="unstaging a staged file">
 <node CREATED="1583579012393" ID="ID_1002111043" MODIFIED="1583579042547" TEXT="$ git reset HEAD &lt;file&gt;"/>
@@ -569,7 +568,7 @@
 </node>
 </node>
 <node CREATED="1583583054481" ID="ID_1508598950" MODIFIED="1583583064719" TEXT="2.5 Working with Remotes">
-<node CREATED="1583935985240" ID="ID_1754118272" MODIFIED="1583936055810" TEXT="adding remote repositories">
+<node CREATED="1583935985240" ID="ID_1754118272" MODIFIED="1586744785833" TEXT="adding remote repositories">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -582,6 +581,7 @@
 </html>
 </richcontent>
 </node>
+<node CREATED="1586744799340" ID="ID_1212865320" MODIFIED="1586744801916" TEXT="$ git pull https://github.com/gwaysoft/start.git master"/>
 </node>
 </node>
 </node>
